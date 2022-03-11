@@ -1,2 +1,2 @@
 # data-cleaner
-tetsing
+testing
